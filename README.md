@@ -1,2 +1,3 @@
-# Making-a-HomeLab-
-My journey on making a HomeLab
+## HomeLab Guide Sections
+
+
